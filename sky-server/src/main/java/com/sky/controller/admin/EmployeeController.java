@@ -108,7 +108,7 @@ public class EmployeeController {
     /**
      * 修改员工信息
      *
-     * @param status 修改的员工信息
+     * @param status 员工状态
      * @param id 员工ID
      * @return 修改结果
      */

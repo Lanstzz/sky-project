@@ -36,7 +36,8 @@ public interface EmployeeMapper {
 
     /**
      * 根据主键动态修改
-     * */
+     * @param employee 员工信息
+     */
     void update(Employee employee);
 
     /**
